@@ -1,5 +1,2 @@
-# large files
-*.bin
-*.npy
-
-machine learning/technosphere/Lecture10 - NN for NLP/word2vec_demo/*
+machine\ learning/specialization/*
+machine\ learning/specialization/*/
